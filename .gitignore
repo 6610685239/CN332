@@ -1,0 +1,9 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
