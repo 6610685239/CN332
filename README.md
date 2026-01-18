@@ -20,6 +20,20 @@ Built with <b>OOAD principles</b> to transform manual workflows into a seamless,
 
 <div align="center">
   
+## 🛠 Tech Stack & Ecosystem
+
+| **Core Backend** | **Frontend** | **Database** |
+| :---: | :---: | :---: |
+| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+| **Automation** | **Communication** | **Infrastructure** |
+| :---: | :---: | :---: |
+| ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) | ![Line](https://img.shields.io/badge/LINE_OA-00C300?style=for-the-badge&logo=line&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+
+</div>
+
+<div align="center">
+  
 ## 👥 Project Members
 
 <table>
