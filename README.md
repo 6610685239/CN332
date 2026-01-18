@@ -9,6 +9,10 @@ Built with <b>OOAD principles</b> to transform manual workflows into a seamless,
 
 ---
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Maintainer](https://img.shields.io/badge/Maintainer-CN332_Team-blue)
+![Status](https://img.shields.io/badge/Status-In_Development-green)
+
 </div>
 
 ## 📌 Course & Institution
